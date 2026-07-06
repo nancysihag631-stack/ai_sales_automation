@@ -1,7 +1,7 @@
 
 ---
 
-# 📌 2. AI Sales Automation Platform (README)
+# 📌  AI Sales Automation Platform (README)
 
 ```markdown
 # 🤖 AI Sales Automation Platform
