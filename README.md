@@ -32,3 +32,21 @@ It simulates how modern CRM systems and AI tools assist sales teams.
 ---
 
 ## 📂 Project Structure
+project/
+│
+├── app.py
+├── database.py
+├── requirements.txt
+├── templates/
+├── static/
+└── models/
+
+---
+
+## ⚙️ How to Run
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
+python app.py
